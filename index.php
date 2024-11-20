@@ -76,7 +76,7 @@
 
     <span style="color: white;">
       <center>
-        <h5>copyright 2020 @nblwarehouse</h5>
+        <h5>copyright bayucandrasaputra007@gmail.com / 2024</h5>
       </center>
     </span></p>
 
