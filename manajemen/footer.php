@@ -3,7 +3,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0
     </div>
-    <strong>Copyright &copy; 2019</strong> - Sistem Informasi Laporan Keuangan
+    <strong>Copyright &copy; bayucandrasaputra007@gmail.com</strong> - Sistem Informasi Laporan Keuangan Mitra JNE 2024
   </footer>
 
   
